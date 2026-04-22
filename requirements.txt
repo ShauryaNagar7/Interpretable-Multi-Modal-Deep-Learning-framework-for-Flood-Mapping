@@ -1,0 +1,18 @@
+# Core Deep Learning
+torch>=2.1.0
+torchvision>=0.16.0
+pytorch-lightning>=2.1.0
+
+# Geospatial Data Handling
+torchgeo>=0.6.0
+
+# Segmentation Model Architectures
+segmentation-models-pytorch>=0.3.3
+
+# Image Augmentation
+albumentations>=1.3.0
+
+# Utilities
+numpy>=1.24.0
+matplotlib>=3.7.0
+rasterio>=1.3.0
